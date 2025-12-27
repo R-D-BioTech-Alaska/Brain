@@ -1,5 +1,7 @@
 # Brain
 
+*Update 12/27/2025* - Brain has been released with a lot of bugs, mostly due to Quantum addons. Currently I am not experiencing issues with it, so if you use it, please open PR's with any issues.
+
 *Update 12/19/2025* - Brain is being combined with Qelm.
 
 This is the future home of Brain.
