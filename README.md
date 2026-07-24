@@ -1,5 +1,6 @@
 # Brain
 
+*Update 7/24/2026*
 Brain has been combined with Qelm. Brains Quantum System wont be released, but its benchmarks, its knowledge files and information based knowledge will be available as time allows. Currently Brain is at 237x parameter advantage compared to regular llms at over 90% efficancy. 
 
 ## Projected Brain Model Efficiency
