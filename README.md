@@ -79,8 +79,8 @@ The process of combining Brain with QELM began.
 
 For research, licensing, or collaboration inquiries:
 
-**[contact@rdbiotechalaska.com](mailto:contact@rdbiotechalaska.com)**
+**[contact@rdbiotech.org](mailto:contact@rdbiotech.org)**
 
 ---
 
-Copyright © 2025–2026 R&D BioTech Alaska
+Copyright © 2024–2026 R&D BioTech Alaska
