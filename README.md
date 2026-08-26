@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/brain.png" alt="QELM" width="140">
+</p>
+
 # Brain — Legacy / Historical Codebase
 
 > [!IMPORTANT]
