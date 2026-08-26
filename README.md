@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/brain.png" alt="QELM" width="140">
+  <img src="images/brain.png" alt="QELM" width="400">
 </p>
 
 # Brain — Legacy / Historical Codebase
